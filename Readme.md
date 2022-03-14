@@ -13,7 +13,7 @@ Oktaven). Klickt der Nutzer auf eine der Taste, wird der entsprechende Ton abges
 der Tasten zu den Tönen erfolgt dabei genauso, wie von einem herkömmlichen Klavier bekannt. Ein Video der fertigen
 Anwendung mit den minimalen Anforderungen können Sie sich hier anschauen:
 
-[![Alternate Text]({https://files.mi.ur.de/f/a9c555fb16e3491193d5/?dl=1})]({https://files.mi.ur.de/f/45eeb8e039e241888951/?dl=1} "Video des Virtual-Piano")
+[![Video des Virtual-Piano]({https://files.mi.ur.de/seafhttp/files/bd29de9f-7103-4b07-a415-6965292a90f0/virtual-piano-1.png})]({https://files.mi.ur.de/seafhttp/files/152c7cf9-98c0-4765-ad69-fd76cc6fbefa/virtual-piano.mp4} "Video des Virtual-Piano")
 
 ## Vorgaben
 
